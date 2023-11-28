@@ -1,0 +1,9 @@
+{
+    "username": "T&P username",
+    "password": "T&P Password",
+    "usermongo": "Mongo Username",
+    "passmongo": "Mongo Password",
+    "urlmongo": "mongo Url"
+    "sender": "sender email",
+    "authkey": "sender authkey"
+}
